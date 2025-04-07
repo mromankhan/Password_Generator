@@ -19,15 +19,4 @@ A sleek and secure **Password Generator Web App** built using [Streamlit](https:
 
 - Python 🐍
 - Streamlit 🎈
-- Pyperclip 📋 (for clipboard copy functionality)
-- GitHub 🚀 (for deployment and hosting)
 
-## 📦 Installation
-
-Make sure you have **Python 3.7+** installed.
-
-1. **Clone the repo**:
-
-```bash
-git clone https://github.com/yourusername/password-generator-app.git
-cd password-generator-app
